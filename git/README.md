@@ -1,1 +1,1 @@
-README inside git folder
+EADME inside git folder
